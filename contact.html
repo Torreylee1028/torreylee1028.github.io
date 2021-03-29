@@ -40,14 +40,16 @@ nav-menu: true
 				<div class="contact-method">
 					<span class="icon alt fa-linkedin"></span>
 					<h3>LinkedIn</h3>
-					<span>{{ site.socials.LinkedIn }}</span>
+					<a href="#">{{ site.socials.LinkedIn }}</a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-github"></span>
 					<h3>GitHub</h3>
-					<span>{{ site.socials.GitHub }}</span>
+					<a href="#">{{ site.socials.GitHub }}</a>
+					<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+								<span class="label">{{ key_value[0] }}</span>
 				</div>
 			</section>
 			<section>
