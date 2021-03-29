@@ -51,6 +51,10 @@ socials:
 # Build settings
 markdown: kramdown
 #theme: forty_jekyll_theme
+
+sass:
+  style: compressed
+
 plugins:
   - jekyll-feed
 
