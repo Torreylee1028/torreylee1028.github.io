@@ -31,7 +31,7 @@ Through this statistical analysis and the use of CDF, hypothesis testing, and si
 
 ### Project Preview
 #### Probability Mass function
-![PMF](/assets/images/exercise_pmf.jpg)
+![PMF](/assets/images/exercise_pmf.JPG)
 
 #### Cumulative Distribution Function
 ![CDF](/assets/images/exercise_cdf.jpg)
