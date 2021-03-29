@@ -14,24 +14,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Donald
-subtitle: Nowels
+title: Torrey Capobianco
+subtitle: 
 email: djnowels11@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a Front-End Developer. A conscientious, fast learner
-  offering the ability to assess an organization’s needs and
-  create a complementary, robust web presence. I am both
-  driven and self-motivated, and I am constantly
-  experimenting with new technologies and techniques.
+  A data science portfolio.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-street_address: 1234 Somewhere Road
-city: Philadelphia
-state: PA
-zip_code: 55555
-country: United States of America
+twitter_username: 
+github_username:  torreyle1028
+street_address: 
+city: Orange County
+state: CA
+zip_code: 
+country: 
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -40,12 +36,12 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/dln5057
-linkedin_url: https://www.linkedin.com/in/donald-nowels/
+github_url: https://github.com/torreylee1028
+linkedin_url: https://www.linkedin.com/in/torrey-capobianco-83ba382b
 pinterest_url:
 slack_url:
 twitter_url:
-email_url: djnowels11@gmail.com
+email_url: torreylee1028@yahoo.com
 
 # Build settings
 markdown: kramdown
