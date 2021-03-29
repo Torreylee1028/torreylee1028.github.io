@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p>Predictive analytics with random forest, decision trees, KNN, linear regression, and logistic regression.</p>
 				<ul class="actions">
-					<li><a href="_posts/2021-03-29-directmarketing.md" class="button">Learn more</a></li>
+					<li><a href="_posts/2021-03-29-directmarketing.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
