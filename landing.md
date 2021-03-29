@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>Data cleaning and preparation with pandas with three data sources on asteroids. Data sources include importing a flat file, web scraping, and API.</p>
 				<ul class="actions">
-					<li><a href="https://github.com/Torreylee1028/torreylee1028.github.io/blob/main/_posts/2021-03-29-Asteroids.md" class="button">Learn more</a></li>
+					<li><a href="_posts/2021-03-29-Asteroids.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
