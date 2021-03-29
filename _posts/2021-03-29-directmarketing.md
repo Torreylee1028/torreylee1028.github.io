@@ -2,10 +2,10 @@
 layout: post
 title: Direct Marketing
 description: Predictive analytics with random forest, decision trees, KNN, linear regression, and logistic regression.
-image: assets/images/bryce.jpg
+image:
 ---
 
-# Direct Marketing
+
 
 ## Predictive Analytics
 
