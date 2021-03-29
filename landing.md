@@ -2,7 +2,7 @@
 title: Projects
 layout: landing
 description: 'Portfolio of my projects for my data science journey.'
-image: assets/images/pic07.jpg
+image: assets/images/capitolreef.jpg
 nav-menu: true
 ---
 
