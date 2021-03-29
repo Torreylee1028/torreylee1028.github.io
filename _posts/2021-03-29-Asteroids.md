@@ -2,7 +2,7 @@
 layout: post
 title: Asteroids
 description: Data cleaning and preparation with pandas.
-image: assets/images/pic06.jpg
+image: assets/images/capitol-reef2.jpg
 ---
 
 # Asteroids
