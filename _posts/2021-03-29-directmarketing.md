@@ -5,9 +5,9 @@ description: Predictive analytics with random forest, decision trees, KNN, linea
 image: assets/images/bryce.jpg
 ---
 
-# Asteroids
+# Direct Marketing
 
-## Data Cleaning and Preparation
+## Predictive Analytics
 
 ### Summary
 This project was a collaborative effort between two other teammates. The project’s goal was to predict what type of spender a potential customer would be based on household characteristics. The spending types were low, medium, and high. We implemented five different types of models and compared them to see which yield the highest accuracy score.
