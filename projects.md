@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: Projects
 description: 'Portfolio of my projects for my data science journey.'
 image: assets/images/capitolreef.jpg
