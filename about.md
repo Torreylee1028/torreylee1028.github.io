@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About Me
 description: Experience, Education, Hobbies
 image: assets/images/bryce.jpg
