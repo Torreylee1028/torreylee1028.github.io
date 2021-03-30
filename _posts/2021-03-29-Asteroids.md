@@ -46,12 +46,8 @@ Preview of one DataFrame before cleaning and after cleaning. Column names were r
 <div id="main">
 <section id="three">
 	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p></p>
-		<ul class="actions">
-			<li><a href="projects.html" class="button back">All Projects</a></li>
+				<ul class="actions">
+			<li><a href="https://torreylee1028.github.io/projects.html" class="button back">All Projects</a></li>
 		</ul>
 	</div>
 </section>
