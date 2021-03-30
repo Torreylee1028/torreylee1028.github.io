@@ -30,18 +30,15 @@
 		<section>
 			<div class="contact-method _social">
 			<ul class="icons">
-				{% if site.GitHub %}
-				<li><a href="{{ site.GitHub }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
-				{% endif %}
-				{% if site.twitter_url %}
-				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-				{% endif %}
-				{% if site.flickr_url %}
-				<li><a href="{{ site.flickr_url }}" class="icon alt fa-flickr" target="_blank"><span class="label">Flickr</span></a></li>
-				{% endif %}
-				{% if site.geekhack_url %}
-				<li><a href="{{ site.geekhack_url }}" class="icon alt geekhack" target="_blank"><span class="label">Geekhack</span></a></li>
-				{% endif %}
+				{% for key_value in site.socials %}
+					{% if key_value[1] %}
+						<li>
+							<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+								<span class="label">{{ key_value[0] }}</span>
+							</a>
+						</li>
+					{% endif %}
+				{% endfor %}
 			</ul>
 			</div>
 		</section>
