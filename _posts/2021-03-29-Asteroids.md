@@ -40,16 +40,3 @@ Preview of one DataFrame before cleaning and after cleaning. Column names were r
 
 ### The Complete Project
 [Asteroid Project Repository](https://github.com/Torreylee1028/Asteroids-Data-Preparation)
-
-
-<!-- Main -->
-<div id="main">
-<section id="three">
-	<div class="inner">
-				<ul class="actions">
-			<li><a href="https://torreylee1028.github.io/projects.html" class="button next">All Projects</a></li>
-		</ul>
-	</div>
-</section>
-
-</div>
