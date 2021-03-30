@@ -60,9 +60,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="#" class="image">
-			<img src="assets/images/purpleflower.jpg" alt="" data-position="center center">
-		</a>
+		
 		<div class="content">
 			<div class="inner">
 				<header class="major">
