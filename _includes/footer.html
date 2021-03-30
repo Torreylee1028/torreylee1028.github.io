@@ -7,24 +7,25 @@
 				<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 			</div>
 			<div class="contact-method">
-				<span class="icon alt fa-home"></span>
-				{% if site.city %}
-				{{ site.city }},
-				{% endif %}
-				{% if site.state %}
-				{{ site.state }}</a>
+				<span class="icon alt discord"></span>
+				<a href="{{ site.discord_url }}">{{ site.discord_un }}</a>
 			</div>
 		</section>
 		<section>
 			<div class="contact-method _social">
 			<ul class="icons">
-				{% if site.GitHub %}
-				<li><a href="{{ site.GitHub }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+				{% if site.instagram_url %}
+				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
 				{% endif %}
-				{% if site.LinkedIn %}
-				<li><a href="{{ site.LinkedIn }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+				{% if site.twitter_url %}
+				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 				{% endif %}
-				
+				{% if site.flickr_url %}
+				<li><a href="{{ site.flickr_url }}" class="icon alt fa-flickr" target="_blank"><span class="label">Flickr</span></a></li>
+				{% endif %}
+				{% if site.geekhack_url %}
+				<li><a href="{{ site.geekhack_url }}" class="icon alt geekhack" target="_blank"><span class="label">Geekhack</span></a></li>
+				{% endif %}
 			</ul>
 			</div>
 		</section>
