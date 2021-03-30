@@ -48,7 +48,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/purpleflower.jpg" alt="" data-position="center center">
+			<img src="assets/images/shen2.jpg" alt="" data-position="center center">
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -69,11 +69,10 @@ nav-menu: true
 					<h3>Skills</h3>
 				</header>
 				<ul class="alt">
-					<li>Business Intelligence: PowerBI</li>
-					<li>Programming Languages: Python, R</li>
-					<li>Knowledge of: SQL, Tableau</li>
+					<li><b>Business Intelligence:</b> PowerBI</li>
+					<li><b>Programming Languages:</b> Python, R</li>
+					<li><b>Knowledge of:</b> SQL, Tableau</li>
 				</ul>
 			</div>
 		</div>
 	</section>
-	
