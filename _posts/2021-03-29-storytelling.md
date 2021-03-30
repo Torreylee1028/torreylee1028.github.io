@@ -21,11 +21,11 @@ The examples here took the scenario that airlines are a safe way to travel by co
 ### Before Example
 The skeleton of the graph is created in python.
 
-![PMF](/assets/images/fatal_car_bar_bef.png)
+![Before](/assets/images/fatal_car_bar_before.png)
 
 #### Finalized Example
 The finalized version is transformed in graphics software to highlight the sections of the graph that extends above a specific threshold. Text placed on the graph is used to emphasize quantity from the y-axis.
-![CDF](/assets/images/fatal_car_bar_final.png)
+![After](/assets/images/fatal_car_bar_final.png)
 
 ### The Complete Project
 [Storytelling With Data Project Repo](https://github.com/Torreylee1028/Storytelling-With-Data)
