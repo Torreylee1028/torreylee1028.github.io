@@ -18,74 +18,19 @@
 		<section>
 			<div class="contact-method _social">
 			<ul class="icons">
-						{% for key_value in site.socials %}
-							{% if key_value[1] %}
-								<li>
-									<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
-										<span class="label">{{ key_value[0] }}</span>
-									</a>
-								</li>
-							{% endif %}
-						{% endfor %}
-					</ul>
+				{% if site.github %}
+				<li><a href="{{ site.github }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+				{% endif %}
+				{% if site.linkedin %}
+				<li><a href="{{ site.linkedin }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+				{% endif %}
+				
+			</ul>
 			</div>
 		</section>
 	</div>
 </section>
 
-<section id="contact2">
-	<div class="inner">
-		<section>
-			<header class="major">
-						<h3>Connect</h3>
-					</header>
-					<ul class="icons">
-						{% for key_value in site.socials %}
-							{% if key_value[1] %}
-								<li>
-									<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
-										<span class="label">{{ key_value[0] }}</span>
-									</a>
-								</li>
-							{% endif %}
-						{% endfor %}
-					</ul>
-		</section>
-		<section class="split">
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
-					{{ site.email }}
-				</div>
-			</section>
-			
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Location</h3>
-					<span>
-					{% if site.street_address %}
-					    {{ site.street_address }}<br />
-					{% endif %}
-					{% if site.city %}
-					    {{ site.city }},
-					{% endif %}
-					{% if site.state %}
-					    {{ site.state }} 
-					{% endif %}
-					{% if site.zip_code %}
-					    {{ site.zip_code }}<br />
-					{% endif %}
-					{% if site.country %}
-					    {{ site.country }}
-					{% endif %}
-					</span>
-				</div>
-			</section>
-		</section>
-	</div>
-</section>
 
 
 
