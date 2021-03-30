@@ -11,7 +11,7 @@ nav-menu: true
 
 <section id="one" class="spotlights">
 	<section>
-		<a href="" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/profile-pic.jpg" alt="" data-position="center center">
 		</a>
 		<div class="content">
