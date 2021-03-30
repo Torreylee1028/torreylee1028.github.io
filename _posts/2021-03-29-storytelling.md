@@ -26,7 +26,7 @@ The skeleton of the graph is created in python.
 #### Finalized Example
 The finalized version is transformed in graphics software to highlight the sections of the graph that extends above a specific threshold. Text placed on the graph is used to emphasize quantity from the y-axis.
 
-![After](/assets/images/fatal_car_bar_final.png)
+![After](/assets/images/fatal_car_bar_final.jpg)
 
 ### The Complete Project
 [Storytelling With Data Project Repo](https://github.com/Torreylee1028/Storytelling-With-Data)
