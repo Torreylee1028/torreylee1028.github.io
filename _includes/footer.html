@@ -9,24 +9,29 @@
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
-			<ul class="actions">
-			<li><a href="https://torreylee1028.github.io/projects.html" class="button">All Projects</a></li><li><a href="https://torreylee1028.github.io/about.html" class="button">About</a></li><li><a href="https://torreylee1028.github.io" class="button">Home</a></li>
-			</ul>
-				<header class="major">
-					<h3>Connect</h3>
-				</header>
-				<ul class="icons">
-					{% for key_value in site.socials %}
-						{% if key_value[1] %}
-							<li>
-								<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
-									<span class="label">{{ key_value[0] }}</span>
-								</a>
-							</li>
-						{% endif %}
-					{% endfor %}
-				</ul>
-				
+			<section class="split">
+				<section>
+					<ul class="actions">
+					<li><a href="https://torreylee1028.github.io/projects.html" class="button">All Projects</a></li><li><a href="https://torreylee1028.github.io/about.html" class="button">About</a></li><li><a href="https://torreylee1028.github.io" class="button">Home</a></li>
+					</ul>
+				</section>
+				<section>
+					<header class="major">
+						<h3>Connect</h3>
+					</header>
+					<ul class="icons">
+						{% for key_value in site.socials %}
+							{% if key_value[1] %}
+								<li>
+									<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+										<span class="label">{{ key_value[0] }}</span>
+									</a>
+								</li>
+							{% endif %}
+						{% endfor %}
+					</ul>
+					</section>
+			</section>
 				<ul class="copyright">
 					<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
 					<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
