@@ -47,7 +47,7 @@ Preview of one DataFrame before cleaning and after cleaning. Column names were r
 <section id="three">
 	<div class="inner">
 				<ul class="actions">
-			<li><a href="https://torreylee1028.github.io/projects.html" class="button back">All Projects</a></li>
+			<li><a href="https://torreylee1028.github.io/projects.html" class="button last">All Projects</a></li>
 		</ul>
 	</div>
 </section>
