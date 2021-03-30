@@ -117,6 +117,22 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/hubbard-1.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Movie Success</h3>
+				</header>
+				<p>Statistical analysis with R in relation to the success of movies.</p>
+				<ul class="actions">
+					<li><a href="https://torreylee1028.github.io/2021/03/29/movie.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
 
 <!-- Three -->
