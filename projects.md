@@ -71,6 +71,22 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
+			<img src="{% link assets/images/marj.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Storytelling With Data</h3>
+				</header>
+				<p>Data visualization and techniques.</p>
+				<ul class="actions">
+					<li><a href="https://torreylee1028.github.io/2021/03/29/storytelling.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
 			<img src="{% link assets/images/hubbard-1.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
