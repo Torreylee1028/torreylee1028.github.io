@@ -10,17 +10,16 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<section id='top' >
-	<div class="content">
-		<div class="inner">
-
-			<h2>Test</h2>
-			<p>This is about me</p>
-			</div>
-		</div>
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Hi,</h2>
+		</header>
+		<p>My name is Torrey and welcome to my data science portfolio.</p>
+	</div>
 </section>
 
-<section id="one" class="spotlights">
+<section id="two" class="spotlights">
 	<section>
 		<a href="#" class="image">
 			<img src="assets/images/profile-pic.jpg" alt="" data-position="center center">
