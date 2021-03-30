@@ -36,13 +36,17 @@ rfc_3 = RandomForestClassifier(n_estimators = 1577,
 rfc_3.fit(X_train, y_train)
 ```
 ```
+# make predictions
 y_pred = rfc_3.predict(X_valid)
 accuracy_score(y_valid, y_pred)
 ```
 ```
 # confusion matrix
-conf_matrix_rf = pd.DataFrame(confusion_matrix(y_valid, y_pred, labels=['High','Med','Low']), index = ['actual high', 'actual med', 'actual low'], columns = ['predicted high', 'predicted med', 'predicted low'])
+conf_matrix_rf = pd.DataFrame(confusion_matrix(y_valid, y_pred, labels=['High','Med','Low']),
+  index = ['actual high', 'actual med', 'actual low'],
+  columns = ['predicted high', 'predicted med', 'predicted low'])
 
+# plot the matrix
 fig, ax = plt.subplots(figsize = (10,8))
 
 sns.heatmap(conf_matrix_rf/np.sum(conf_matrix_rf), annot=True,
