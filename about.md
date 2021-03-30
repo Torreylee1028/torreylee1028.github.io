@@ -25,7 +25,7 @@ nav-menu: true
 	</section>
   <section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/hubbard-1.jpg" alt="" data-position="top center">
+			<img src="assets/images/shen.jpg" alt="" data-position="top center">
 		</a>
 		<div class="content">
 			<div class="inner">
