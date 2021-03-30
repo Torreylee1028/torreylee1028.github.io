@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Hi,</h2>
 		</header>
-		<p>My name is Torrey and welcome to my data science portfolio.</p>
+		<p>Hi, my name is Torrey. I am an aspiring data scientist who is interested in machine learning and predictive analytics. I excel in data visualization, with several years’ experience of developing dashboards and reports in PowerBI. I have a strong attention to detail as well as an eye for creative design.</p>
 	</div>
 </section>
 
@@ -29,7 +29,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Work Experience</h3>
 				</header>
-				<p>Working for a large theme park, I have integrated, developed, and maintained a variety of PowerBI dashboards for many departments, bringing insights on financials and workload labor. By providing these dashboards, senior leaders have the power to dive in through their data. </p>
+				<p>Working for a large theme park, I have integrated, developed, and maintained a variety of PowerBI dashboards for many departments, bringing insights on financials and workload labor. By providing these dashboards, senior leaders have the power to dive in to their data and uncover insights they did not have access to before. </p>
 			</div>
 		</div>
 	</section>
@@ -55,7 +55,33 @@ nav-menu: true
 				<header class="major">
 					<h3>Hobbies</h3>
 				</header>
-				<p>Although I am an analytical thinker, my creativity thrives through my love for photography, crafting, sewing, and quilting. I have a passion for traveling, with the goal to visit all 62 U.S. National Parks. I visited over 50% of them, my favorite being Glacier National Park in Montana. With my passion for photography, the photos on my portfolio are taken from my travels. </p>
+				<p>Although I am an analytical thinker, my creativity thrives through my love for photography, crafting, sewing, and quilting. I have a passion for traveling, with the goal to visit all 62 U.S. National Parks. I have visited over 50% of them, my favorite being Glacier National Park in Montana. Along with my passion for photography, the photos on my portfolio site are taken from my travels. </p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="#" class="image">
+			<img src="assets/images/purpleflower.jpg" alt="" data-position="center center">
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Skills</h3>
+				</header>
+				<h4>Business Intelligence:</h4>
+				<UL>
+				<LI>PowerBI
+				</UL>
+				<h4>Programming Languages:</h4>
+				<UL>
+				<LI>Python
+				<LI>R
+				</UL>
+				<h4>Knowledge of:</h4>
+				<UL>
+				<LI>SQL
+				<LI>Tableau
+				</UL>
 			</div>
 		</div>
 	</section>
