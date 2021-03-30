@@ -2,12 +2,12 @@
 layout: post
 title: Women Who Exercise
 description: Exploratory Data Analysis with hypothesis testing.
-image:
+image: assets/images/hubbard-1.jpg
 ---
 
 
 
-## Exploratory Data analysis
+## Exploratory Data Analysis
 
 ### Summary
 This project used exploratory data analysis techniques in Python to prove or disprove a hypothesis based on female exercise behavior with those who have kids under the age of 18 based on a survey of time usage.
@@ -37,4 +37,4 @@ Through this statistical analysis and the use of CDF, hypothesis testing, and si
 ![CDF](/assets/images/exercise_cdf.jpg)
 
 ### The Complete Project
-[Women Who Exercise Project Repo](https://github.com/Torreylee1028/Women-Who-Exercise)
+[Women Who Exercise Project Repository](https://github.com/Torreylee1028/Women-Who-Exercise)
