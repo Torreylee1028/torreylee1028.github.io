@@ -21,7 +21,7 @@ This was a program I created in python to construct a decision tree with custom 
 * Numpy
 * Sklearn
 
-### Preview
+### Program Preview
 ```Python
 def Decision_Tree(D, min_node, min_impurity, headers=None, delimiter=','):
     """Function to make a decision tree based on entropy and information gain,
