@@ -48,7 +48,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/rocky.jpg" alt="" data-position="center center">
+			<img src="assets/images/purpleflower.jpg" alt="" data-position="center center">
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -83,5 +83,27 @@ nav-menu: true
 					<LI style="font-size:87%;">Tableau</LI>
 					</UL>
 			</div>
+		</div>
+	</section>
+	<!-- Three -->
+	<section id="three">
+		<div class="inner">
+			<header class="major">
+				<h2>Skills</h2>
+			</header>
+			<h5>Business Intelligence:</h5>
+				<UL>
+				<LI style="font-size:90%;">PowerBI</LI>
+				</UL>
+			<h5>Programming Languages:</h5>
+				<UL>
+				<LI style="font-size:90%;">Python</LI>
+				<LI style="font-size:90%;">R</LI>
+				</UL>
+			<h5>Knowledge of:</h5>
+				<UL>
+				<LI style="font-size:90%;">SQL</LI>
+				<LI style="font-size:90%;">Tableau</LI>
+				</UL>
 		</div>
 	</section>
