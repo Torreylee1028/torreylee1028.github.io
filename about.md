@@ -6,11 +6,15 @@ image: assets/images/bryce.jpg
 nav-menu: true
 ---
 
-## Test header
-This is a test.
 
 <!-- Main -->
 <div id="main">
+
+<section id='top'>
+
+<h2>Test</h2>
+<p>This is about me</p>
+</section>
 
 <section id="one" class="spotlights">
 	<section>
