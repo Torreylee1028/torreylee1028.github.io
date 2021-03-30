@@ -70,17 +70,17 @@ nav-menu: true
 				</header>
 				<h5>Business Intelligence:</h5>
 					<UL>
-					<LI style="font-size:70%;">PowerBI</LI>
+					<LI style="font-size:90%;">PowerBI</LI>
 					</UL>
 				<h5>Programming Languages:</h5>
 					<UL>
-					<LI tyle="font-size:70%;">Python</LI>
-					<LI tyle="font-size:70%;">R</LI>
+					<LI style="font-size:90%;">Python</LI>
+					<LI style="font-size:90%;">R</LI>
 					</UL>
 				<h5>Knowledge of:</h5>
 					<UL>
-					<LI tyle="font-size:70%;">SQL</LI>
-					<LI tyle="font-size:70%;">Tableau</LI>
+					<LI style="font-size:90%;">SQL</LI>
+					<LI style="font-size:90%;">Tableau</LI>
 					</UL>
 			</div>
 		</div>
