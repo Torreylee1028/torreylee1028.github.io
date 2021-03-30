@@ -6,6 +6,9 @@ image: assets/images/bryce.jpg
 nav-menu: true
 ---
 
+## Test header
+This is a test.
+
 <!-- Main -->
 <div id="main">
 
@@ -24,7 +27,7 @@ nav-menu: true
 		</div>
 	</section>
   <section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/shen.jpg" alt="" data-position="top center">
 		</a>
 		<div class="content">
@@ -37,7 +40,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/rocky.jpg" alt="" data-position="center center">
 		</a>
 		<div class="content">
