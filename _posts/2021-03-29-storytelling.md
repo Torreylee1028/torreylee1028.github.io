@@ -21,7 +21,7 @@ The examples here took the scenario that airlines are a safe way to travel by co
 ### Before Example
 The skeleton of the graph is created in python.
 
-![Before](/assets/images/fatal_car_bar_before.png)
+![Before](/assets/images/fatal_car_bar_before.jpg)
 
 #### Finalized Example
 The finalized version is transformed in graphics software to highlight the sections of the graph that extends above a specific threshold. Text placed on the graph is used to emphasize quantity from the y-axis.
