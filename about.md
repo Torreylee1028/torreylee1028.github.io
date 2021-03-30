@@ -68,19 +68,19 @@ nav-menu: true
 				<header class="major">
 					<h3>Skills</h3>
 				</header>
-				<h6"><b>Business Intelligence:</h6>
+				<h6><b>Business Intelligence:</h6>
 					<UL>
-					<LI style="font-size:85%;">PowerBI</LI>
+					<LI style="font-size:87%;">PowerBI</LI>
 					</UL>
-				<h6"><b>Programming Languages:</h6>
+				<h6><b>Programming Languages:</h6>
 					<UL>
-					<LI style="font-size:85%;">Python</LI>
-					<LI style="font-size:85%;">R</LI>
+					<LI style="font-size:87%;">Python</LI>
+					<LI style="font-size:87%;">R</LI>
 					</UL>
 				<h6><b>Knowledge of:</h6>
 					<UL>
-					<LI style="font-size:85%;">SQL</LI>
-					<LI style="font-size:85%;">Tableau</LI>
+					<LI style="font-size:87%;">SQL</LI>
+					<LI style="font-size:87%;">Tableau</LI>
 					</UL>
 			</div>
 		</div>
