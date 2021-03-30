@@ -25,6 +25,16 @@
 					    {{ site.country }}
 					{% endif %}
 					</span>
+			<div class="social">
+				<span class="icon alt fa-github"></span>
+				<span>{% if site.socials.GitHub %}
+					    {{ site.socials.GitHub }}
+				</span>
+				<span class="icon alt fa-linkedin"></span>
+				<span>{% if site.socials.LinkedIn %}
+					    {{ site.socials.LinkedIn }}
+				</span>
+					
 			</div>
 			<ul class="icons">
 				{% for key_value in site.socials %}
