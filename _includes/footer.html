@@ -57,10 +57,8 @@
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
-			<section class="split">
-				
-				<section>
-					<header class="major">
+		<section>
+			<header class="major">
 						<h3>Connect</h3>
 					</header>
 					<ul class="icons">
@@ -74,8 +72,40 @@
 							{% endif %}
 						{% endfor %}
 					</ul>
-					</section>
+		</section>
+		<section class="split">
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-envelope"></span>
+					<h3>Email</h3>
+					<a href="#">{{ site.email }}</a>
+				</div>
 			</section>
+			
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-home"></span>
+					<h3>Location</h3>
+					<span>
+					{% if site.street_address %}
+					    {{ site.street_address }}<br />
+					{% endif %}
+					{% if site.city %}
+					    {{ site.city }},
+					{% endif %}
+					{% if site.state %}
+					    {{ site.state }} 
+					{% endif %}
+					{% if site.zip_code %}
+					    {{ site.zip_code }}<br />
+					{% endif %}
+					{% if site.country %}
+					    {{ site.country }}
+					{% endif %}
+					</span>
+				</div>
+			</section>
+		</section>
 				<ul class="copyright">
 					<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
 					<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
