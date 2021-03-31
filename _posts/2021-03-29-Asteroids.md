@@ -2,7 +2,7 @@
 layout: post
 title: Asteroids
 description: Data cleaning and preparation with pandas.
-image: 
+image:
 ---
 
 
@@ -40,3 +40,11 @@ Preview of one DataFrame before cleaning and after cleaning. Column names were r
 
 ### The Complete Project
 [Asteroid Project Repository](https://github.com/Torreylee1028/Asteroids-Data-Preparation)
+
+<section id="Repository">
+	<div class="inner">
+    <ul class="actions fit small">
+      <li><a href="https://github.com/Torreylee1028/Asteroids-Data-Preparation" class="View Repository">Fit + Small</a></li>
+    </ul>
+	</div>
+</section>
