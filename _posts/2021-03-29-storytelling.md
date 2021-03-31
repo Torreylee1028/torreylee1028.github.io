@@ -29,4 +29,10 @@ The finalized version is transformed in graphics software to highlight the secti
 ![After](/assets/images/fatal_car_bar_final.jpg)
 
 ### The Complete Project
-[Storytelling With Data Project Repo](https://github.com/Torreylee1028/Storytelling-With-Data)
+<section id="Repository">
+	<div class="inner">
+    <ul class="actions fit small">
+      <li><a href="https://github.com/Torreylee1028/Storytelling-With-Data" class="button small">View Repository</a></li>
+    </ul>
+	</div>
+</section>
