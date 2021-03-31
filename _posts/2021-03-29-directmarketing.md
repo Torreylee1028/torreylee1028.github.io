@@ -63,4 +63,10 @@ plt.show()
 
 
 ### The Complete Project
-[Direct Marketing Project Repository](https://github.com/Torreylee1028/Direct-Marketing)
+<section id="Repository">
+	<div class="inner">
+    <ul class="actions fit small">
+      <li><a href="https://github.com/Torreylee1028/Direct-Marketing" class="button small">View Repository</a></li>
+    </ul>
+	</div>
+</section>
