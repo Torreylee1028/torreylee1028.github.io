@@ -2,7 +2,7 @@
 layout: post
 title: Women Who Exercise
 description: Exploratory Data Analysis with hypothesis testing.
-image: 
+image:
 ---
 
 
@@ -37,4 +37,10 @@ Through this statistical analysis and the use of CDF, hypothesis testing, and si
 ![CDF](/assets/images/exercise_cdf.jpg)
 
 ### The Complete Project
-[Women Who Exercise Project Repository](https://github.com/Torreylee1028/Women-Who-Exercise)
+<section id="Repository">
+	<div class="inner">
+    <ul class="actions fit small">
+      <li><a href="https://github.com/Torreylee1028/Women-Who-Exercise" class="button small">View Repository</a></li>
+    </ul>
+	</div>
+</section>
