@@ -44,7 +44,7 @@ Preview of one DataFrame before cleaning and after cleaning. Column names were r
 <section id="Repository">
 	<div class="inner">
     <ul class="actions fit small">
-      <li><a href="https://github.com/Torreylee1028/Asteroids-Data-Preparation" class="View Repository">Fit + Small</a></li>
+      <li><a href="https://github.com/Torreylee1028/Asteroids-Data-Preparation" class="button fit small">View Repository</a></li>
     </ul>
 	</div>
 </section>
