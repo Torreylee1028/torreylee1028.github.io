@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Hi,</h2>
 		</header>
-		<p>Hi, my name is Torrey. I am an aspiring data scientist who is interested in machine learning and predictive analytics. I excel in data visualization, with several years’ experience of developing dashboards and reports in PowerBI. I have a strong attention to detail as well as an eye for creative design.</p>
+		<p>My name is Torrey. I am an aspiring data scientist who is interested in machine learning and predictive analytics. I excel in data visualization, with several years’ experience of developing dashboards and reports in PowerBI. I have a strong attention to detail as well as an eye for creative design.</p>
 	</div>
 </section>
 
