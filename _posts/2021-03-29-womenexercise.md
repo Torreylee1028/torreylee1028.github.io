@@ -2,7 +2,7 @@
 layout: post
 title: Women Who Exercise
 description: Exploratory Data Analysis with hypothesis testing.
-image: assets/images/hubbard-1.jpg
+image: 
 ---
 
 
