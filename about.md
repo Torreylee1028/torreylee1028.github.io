@@ -42,7 +42,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Education</h3>
 				</header>
-				<p>I earned a B.A. in Business Administration with a concentration in Entertainment & Tourism Management. Through the want to learn more about data and how these insights can drive business decisions, I decided to further my education with a M.S. in Data Science. </p>
+				<p>I earned a B.A. in Business Administration with a concentration in Entertainment & Tourism Management. Through the curiosity to learn more about data and how these insights can drive business decisions, I decided to further my education with a M.S. in Data Science. </p>
 			</div>
 		</div>
 	</section>
