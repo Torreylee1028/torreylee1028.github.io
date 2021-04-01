@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: About Me
-description: Experience, Education, Hobbies
+description: “Uncovering the unknown through data is like taking a photo in pitch black. Setting tweaks through long camera exposures and focusing in the dark on the unknown, the insights and layers start to shine through, presenting themselves, uncovering the features and truth that were hidden before you.” - Me
 image: assets/images/bryce.jpg
 nav-menu: true
 ---
