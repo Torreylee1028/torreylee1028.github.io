@@ -50,7 +50,7 @@ The time series data was reformatted for a supervised learning algorithm using o
 
 The final model used 1 LSTM layer with constraint of 50 and 1 dense layer. The training set was fitted on 100 epochs with a batch size of 72.
 
-![Train Validation Loss](/assets/images/wait_model_summary.jpg)
+![Model Summary](/assets/images/wait_model_summary.JPG)
 
 ```
 # create the model
