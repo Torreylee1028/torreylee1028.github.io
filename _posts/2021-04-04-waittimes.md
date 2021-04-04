@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Disney World Wait Times
-description: Predictive multivariate time series model using LSTM neural network.
+description: Predictive multivariate time series model using LSTM neural network with Keras.
 image:
 ---
 
 
-## Data Cleaning and Preparation
+## Multivariate Time Series Model
 
 ### Summary
 Can wait times for a Disney World attraction be predicted?
