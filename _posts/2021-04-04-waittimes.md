@@ -33,22 +33,24 @@ On the validation set, the final model produced an RMSE of 7.174, which equates 
 #### Exploratory Data Analysis
 Through EDA, you can see trends in longer wait times vs. shorter wait times from yearly, weekly, and daily trends.
 
-![Average Month](/assets/images/wait_avg_month.png)
+![Average Month](/assets/images/wait_avg_month.jpg)
 
 ![Average Day](/assets/images/wait_avg_day.jpg)
 
-![Yearly Graphed](/assets/images/wait_one_year.png)
+![Yearly Graphed](/assets/images/wait_one_year.jpg)
 
-![Weekly Graphed](/assets/images/wait_one_week.png)
+![Weekly Graphed](/assets/images/wait_one_week.jpg)
 
-![Day Graphed](/assets/images/wait_one_day.png)
+![Day Graphed](/assets/images/wait_one_day.jpg)
 
-![Wait vs School](/assets/images/wait_vs_school.png)
+![Wait vs School](/assets/images/wait_vs_school.jpg)
 
 #### Modeling
 The time series data was reformatted for a supervised learning algorithm using one timestep in the past to predict one future timestep.
 
 The final model used 1 LSTM layer with constraint of 50 and 1 dense layer. The training set was fitted on 100 epochs with a batch size of 72.
+
+![Train Validation Loss](/assets/images/wait_model_summary.jpg)
 
 ```
 # create the model
@@ -87,12 +89,12 @@ print('Test MAE: %.3f' % mae)
 
 The training set started to smooth out after about 40 epochs. The test set had fluctuations in residuals always just above the training set without overfitting or underfitting the data, but never converging.
 
-![Train Validation Loss](/assets/images/wait_train_val_loss.png)
+![Train Validation Loss](/assets/images/wait_train_val_loss.jpg)
 
 #### Predictions
 10% of the predicted values are plotted against the actual values. The lines fall very close to each other, following the same trends through each timestep in the data.
 
-![Predictions](/assets/images/wait_predicted_vs_actual.png)
+![Predictions](/assets/images/wait_predicted_vs_actual.jpg)
 
 ### The Complete Project
 <section id="Repository">
