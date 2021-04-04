@@ -21,7 +21,7 @@ The wait time data used was collected from 2016-2019. Additional variables such 
 * Scikit-learn
 * Matplotlib
 
-### Modeling methods
+### Modeling Methods
 * Neural network
 * LSTM
 
