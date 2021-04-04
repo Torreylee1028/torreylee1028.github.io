@@ -6,7 +6,7 @@ image:
 ---
 
 
-## Multivariate Time Series Model
+## Multivariate Time Series Predictive Model
 
 ### Summary
 Can wait times for a Disney World attraction be predicted?
