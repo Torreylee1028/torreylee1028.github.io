@@ -35,13 +35,13 @@ Through EDA, you can see trends in longer wait times vs. shorter wait times from
 
 ![Average Month](/assets/images/wait_avg_month.png)
 
-![Average Day](/assets/images/wait_avg_day.png)
+![Average Day](/assets/images/wait_avg_day.jpg)
 
 ![Yearly Graphed](/assets/images/wait_one_year.png)
 
 ![Weekly Graphed](/assets/images/wait_one_week.png)
 
-![Day Graphed](/assets/images/wait_avg_day.png)
+![Day Graphed](/assets/images/wait_one_day.png)
 
 ![Wait vs School](/assets/images/wait_vs_school.png)
 
@@ -58,7 +58,8 @@ model.add(Dense(1))
 model.compile(loss='mae', optimizer='adam')
 
 # fit the model
-history = model.fit(train_X, train_y, epochs=100, batch_size=72, validation_data=(test_X, test_y), verbose=2, shuffle=False)
+history = model.fit(train_X, train_y, epochs=100, batch_size=72,
+	validation_data=(test_X, test_y), verbose=2, shuffle=False)
 
 # predict on test
 yhat = model.predict(test_X)
