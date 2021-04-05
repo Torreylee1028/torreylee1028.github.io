@@ -10,7 +10,9 @@ image:
 ## Predictive Analytics
 
 ### Summary
-This project was a collaborative effort between two other teammates. The project’s goal was to predict what type of spender a potential customer would be based on household characteristics. The spending types were low, medium, and high. We implemented five different types of models and compared them to see which yield the highest accuracy score.
+Can you predict the type of catalog spender someone would be based on household data?
+
+This project was a collaborative effort between two other teammates. The project’s goal was to predict what type of spender a potential customer would be based on household characteristics. The spending types were low, medium, and high. By predicting a type of spender someone would be, one can directly market those that would spend more than those that would spend less. We implemented five different types of models and compared them to see which yield the highest accuracy score.
 
 ### Modeling Methods
 * K-Nearest Neighbors

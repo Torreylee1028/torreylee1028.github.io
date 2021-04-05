@@ -22,7 +22,7 @@ The wait time data used was collected from 2016-2019. Additional variables such 
 * Matplotlib
 
 ### Modeling Methods
-* Neural network
+* Recurrent neural network
 * LSTM
 
 ### Results
