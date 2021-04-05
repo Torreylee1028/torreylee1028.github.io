@@ -40,7 +40,7 @@ Through this statistical analysis and the use of CDF, hypothesis testing, and si
 <section id="Repository">
 	<div class="inner">
     <ul class="actions fit small">
-      <li><a href="https://github.com/Torreylee1028/Women-Who-Exercise" class="button small">View Repository</a></li>
+      <li><a href="https://github.com/Torreylee1028/Women-Who-Exercise" target="_blank" class="button small">View Repository</a></li>
     </ul>
 	</div>
 </section>

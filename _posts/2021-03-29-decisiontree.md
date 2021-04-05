@@ -99,7 +99,7 @@ def Decision_Tree(D, min_node, min_impurity, headers=None, delimiter=','):
 <section id="Repository">
 	<div class="inner">
     <ul class="actions fit small">
-      <li><a href="https://github.com/Torreylee1028/Decision-Tree-Program" class="button small">View Repository</a></li>
+      <li><a href="https://github.com/Torreylee1028/Decision-Tree-Program" target="_blank" class="button small">View Repository</a></li>
     </ul>
 	</div>
 </section>

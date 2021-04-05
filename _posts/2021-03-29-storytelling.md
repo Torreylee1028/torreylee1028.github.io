@@ -32,7 +32,7 @@ The finalized version is transformed in graphics software to highlight the secti
 <section id="Repository">
 	<div class="inner">
     <ul class="actions fit small">
-      <li><a href="https://github.com/Torreylee1028/Storytelling-With-Data" class="button small">View Repository</a></li>
+      <li><a href="https://github.com/Torreylee1028/Storytelling-With-Data" target="_blank" class="button small">View Repository</a></li>
     </ul>
 	</div>
 </section>
