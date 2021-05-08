@@ -23,6 +23,22 @@ nav-menu: true
 <section id="two" class="spotlights">
 <section>
 	<a href="#" class="image">
+		<img src="{% link assets/images/maui.jpg %}" alt="" data-position="center center" />
+	</a>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h3>Hotel Reviews</h3>
+			</header>
+			<p>Text mining hotel reviews with NLTK in Python and tidytext in R.</p>
+			<ul class="actions">
+				<li><a href="https://torreylee1028.github.io/2021/05/08/hotelreviews.html" class="button">Learn more</a></li>
+			</ul>
+		</div>
+	</div>
+</section>
+<section>
+	<a href="#" class="image">
 		<img src="{% link assets/images/dca.jpg %}" alt="" data-position="center center" />
 	</a>
 	<div class="content">
