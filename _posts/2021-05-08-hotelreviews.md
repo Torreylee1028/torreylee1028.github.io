@@ -51,9 +51,9 @@ Word clouds of positive and negative reviews. The more the term occurred in the 
 #### BiGrams
 BiGrams were created to find further insight to pairs of words that occurred frequently.
 
-![Positive BiGrams](/assets/images/pos_bigram.jpg)
+![Positive BiGrams](/assets/images/pos_bigrams.jpg)
 
-![Negative BiGrams](/assets/images/neg_bigram.jpg)
+![Negative BiGrams](/assets/images/neg_bigrams.jpg)
 
 #### Word Networks
 
