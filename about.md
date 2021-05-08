@@ -24,8 +24,6 @@ nav-menu: true
 			<li><b>Knowledge of:</b> SQL, Tableau</li>
 		</ul>
 
-	</div>
-</section>
 
 <section id="two" class="spotlights">
 	<section>
