@@ -16,6 +16,17 @@ nav-menu: true
 			<h2>Hi,</h2>
 		</header>
 		<p>My name is Torrey. I am an aspiring data scientist who is interested in machine learning and predictive analytics. I excel in data visualization, with several years’ experience of developing dashboards and reports in Power BI. I have a strong attention to detail as well as an eye for creative design.</p>
+		<header class="major">
+			<h3>Skills</h3>
+		</header>
+		<ul class="alt">
+			<li><b>Business Intelligence:</b> Power BI</li>
+			<li><b>Programming Languages:</b> Python, R</li>
+			<li><b>Data Science Methods:</b> Data Cleaning, Data Visualization, Machine Learning, Predictive Analytics, Neural Networks, Text Mining, Statistics</li>
+			<li><b>Environments/Software:</b> Jupyter, RStudio, PyCharm, GitHub, Microsoft Office
+			<li><b>Knowledge of:</b> SQL, Tableau</li>
+		</ul>
+
 	</div>
 </section>
 
