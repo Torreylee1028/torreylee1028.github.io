@@ -15,13 +15,14 @@ nav-menu: true
 		<header class="major">
 			<h3>Skills</h3>
 		</header>
+		<ul class="alt">
 			<li><b>Business Intelligence:</b> Power BI</li>
 			<li><b>Programming Languages:</b> Python, R</li>
 			<li><b>Data Science Methods:</b> Data Cleaning, Data Visualization, Machine Learning, Predictive Analytics, Neural Networks, Text Mining, Statistics</li>
 			<li><b>Environments/Software:</b> Jupyter, RStudio, PyCharm, GitHub, Microsoft Office
 			<li><b>Knowledge of:</b> SQL, Tableau</li>
-
-
+		</ul>
+<br>
 
 <section id="two" class="spotlights">
 	<section>
