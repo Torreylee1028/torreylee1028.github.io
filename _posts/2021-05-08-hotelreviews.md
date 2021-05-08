@@ -56,6 +56,13 @@ BiGrams were created to find further insight to pairs of words that occurred fre
 ![Negative BiGrams](/assets/images/neg_bigrams.jpg)
 
 #### Word Networks
+Word network graphs show relationships between multiple words. The stronger the connecting line, the more often that word occurred in the reviews.
+
+![Positive Network](/assets/images/pos_network.jpg)
+
+![Negative Network](/assets/images/neg_network.jpg)
+
+![All Network](/assets/images/network_all_150.jpg)
 
 ### The Complete Project
 <section id="Repository">
