@@ -38,16 +38,24 @@ California had the most reviews in the corpus.
 
 Average word and character count for positive and negative reviews:
 
-|      | Positive | Negative|
-|Word Count | 43 words | 64 words|
-|Character Count | 239 characters | 339 characters |
+|      | **Positive** | **Negative**|
+|**Word Count** | 43 words | 64 words|
+|**Character Count** | 239 characters | 339 characters |
 
 #### Word Clouds
-Word clouds of positive and negative reviews. The more the term occurred in the reviews, the larger the word appears. 
+Word clouds of positive and negative reviews. The more the term occurred in the reviews, the larger the word appears.
 
 ![Positive Word Cloud](/assets/images/pos_word_cloud.jpg)
 ![Positive Word Cloud](/assets/images/neg_word_cloud.jpg)
 
+#### BiGrams
+BiGrams were created to find further insight to pairs of words that occurred frequently.
+
+![Positive BiGrams](/assets/images/pos_bigram.jpg)
+
+![Negative BiGrams](/assets/images/neg_bigram.jpg)
+
+#### Word Networks
 
 ### The Complete Project
 <section id="Repository">
