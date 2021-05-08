@@ -21,7 +21,7 @@ nav-menu: true
 			<li><b>Data Science Methods:</b> Data Cleaning, Data Visualization, Machine Learning, Predictive Analytics, Neural Networks, Text Mining, Statistics</li>
 			<li><b>Environments/Software:</b> Jupyter, RStudio, PyCharm, GitHub, Microsoft Office
 			<li><b>Knowledge of:</b> SQL, Tableau</li>
-		
+
 <br>
 <br>
 
@@ -62,23 +62,6 @@ nav-menu: true
 					<h3>Hobbies</h3>
 				</header>
 				<p>Although I am an analytical thinker, my creativity thrives through my love for photography, crafting, sewing, and quilting. I have a passion for traveling, with the goal to visit all 62 U.S. National Parks. I have visited over 50% of them, my favorite being Glacier National Park in Montana. Along with my passion for photography, the photos on my portfolio site are taken from my travels. </p>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="#" class="image">
-			<img src="assets/images/purpleflower.jpg" alt="" data-position="center center">
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Skills</h3>
-				</header>
-				<ul class="alt">
-					<li><b>Business Intelligence:</b> Power BI</li>
-					<li><b>Programming Languages:</b> Python, R</li>
-					<li><b>Knowledge of:</b> SQL, Tableau</li>
-				</ul>
 			</div>
 		</div>
 	</section>
