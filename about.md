@@ -21,7 +21,8 @@ nav-menu: true
 			<li><b>Data Science Methods:</b> Data Cleaning, Data Visualization, Machine Learning, Predictive Analytics, Neural Networks, Text Mining, Statistics</li>
 			<li><b>Environments/Software:</b> Jupyter, RStudio, PyCharm, GitHub, Microsoft Office
 			<li><b>Knowledge of:</b> SQL, Tableau</li>
-		</ul>
+		
+<br>
 <br>
 
 <section id="two" class="spotlights">
