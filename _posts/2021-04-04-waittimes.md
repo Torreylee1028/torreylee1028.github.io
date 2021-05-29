@@ -15,6 +15,7 @@ A recurrent neural network is used to predict wait times for the Walt Disney Wor
 
 The wait time data used was collected from 2016-2019. Additional variables such as weather, park hours, holidays, parades, and percentage of schools in session were used as input variables. It was trained on two years worth of data, tested on 1 year of data, and finally validated on 1 additional year of data. Predictions are compared to the actual wait times to further gain an understanding of how well the model performed.
 
+
 ### Tools
 * Keras
 * Pandas
@@ -95,6 +96,9 @@ The training set started to smooth out after about 40 epochs. The test set had f
 10% of the predicted values are plotted against the actual values. The lines fall very close to each other, following the same trends through each timestep in the data.
 
 ![Predictions](/assets/images/wait_predicted_vs_actual.jpg)
+
+### Slides
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://github.com/Torreylee1028/torreylee1028.github.io/blob/main/assets/slides/WaitTime.pptx]' width='100%' height='600px' frameborder='0'>
 
 ### The Complete Project
 <section id="Repository">
