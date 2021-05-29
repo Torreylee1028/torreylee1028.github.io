@@ -98,7 +98,7 @@ The training set started to smooth out after about 40 epochs. The test set had f
 ![Predictions](/assets/images/wait_predicted_vs_actual.jpg)
 
 ### Slides
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://github.com/Torreylee1028/torreylee1028.github.io/blob/main/assets/slides/WaitTime.pptx]' width='100%' height='600px' frameborder='0'>
+<iframe src="https://bellevueuniversity-my.sharepoint.com/personal/tcapobianco_my365_bellevue_edu/_layouts/15/Doc.aspx?sourcedoc={dc0316ed-b2c6-4c56-9fb9-0ff143e2e668}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 ### The Complete Project
 <section id="Repository">
