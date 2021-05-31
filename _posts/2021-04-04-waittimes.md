@@ -98,7 +98,7 @@ The training set started to smooth out after about 40 epochs. The test set had f
 ![Predictions](/assets/images/wait_predicted_vs_actual.jpg)
 
 ### Presentation Deck
-<iframe src="https://bellevueuniversity-my.sharepoint.com/personal/tcapobianco_my365_bellevue_edu/_layouts/15/Doc.aspx?sourcedoc={dc0316ed-b2c6-4c56-9fb9-0ff143e2e668}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="962px" height="565px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://bellevueuniversity-my.sharepoint.com/:p:/g/personal/tcapobianco_my365_bellevue_edu/Ee0WA9zGslZMn7kP8UPi5mgBIQmdR5hqx7JtQsPRYo3iPQ?e=cOMooN&amp;action=embedview&amp;wdAr=1.7777777777777777" width="962px" height="565px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <br>
 
 ### The Complete Project
