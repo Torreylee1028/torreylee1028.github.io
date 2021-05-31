@@ -23,6 +23,22 @@ nav-menu: true
 <section id="two" class="spotlights">
 <section>
 	<a href="#" class="image">
+		<img src="{% link assets/images/trinity.jpg %}" alt="" data-position="center center" />
+	</a>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h3>Book Recommender System</h3>
+			</header>
+			<p>Recommender systems: content and collaborative based using document comparison and user ratings. </p>
+			<ul class="actions">
+				<li><a href="https://torreylee1028.github.io/2021/05/23/bookrec.html" class="button">Learn more</a></li>
+			</ul>
+		</div>
+	</div>
+</section>
+<section>
+	<a href="#" class="image">
 		<img src="{% link assets/images/maui.jpg %}" alt="" data-position="center center" />
 	</a>
 	<div class="content">
