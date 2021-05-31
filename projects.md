@@ -32,7 +32,7 @@ nav-menu: true
 			</header>
 			<p>Recommender systems: content and collaborative based using document comparison and user ratings. </p>
 			<ul class="actions">
-				<li><a href="https://torreylee1028.github.io/2021/05/23/bookrec.html" class="button">Learn more</a></li>
+				<li><a href="https://torreylee1028.github.io/2021/05/30/bookrec.html" class="button">Learn more</a></li>
 			</ul>
 		</div>
 	</div>
