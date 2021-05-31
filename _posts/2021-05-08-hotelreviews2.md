@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hotel Reviews
+title: Book Recommendations
 description: Text mining hotel reviews with NLTK in Python and tidytext in R.
 image:
 ---
