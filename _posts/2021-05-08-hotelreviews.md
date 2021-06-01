@@ -6,6 +6,7 @@ image:
 ---
 
 
+
 ## Text Mining
 
 ### Summary
@@ -65,7 +66,7 @@ Word network graphs show relationships between multiple words. The stronger the 
 ![All Network](/assets/images/network_all_150.jpg)
 
 ### Presentation Deck
-<iframe src="https://bellevueuniversity-my.sharepoint.com/personal/tcapobianco_my365_bellevue_edu/_layouts/15/Doc.aspx?sourcedoc={0d26b638-530e-4dc0-92c4-b6a127c02f1f}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="962px" height="565px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://bellevueuniversity-my.sharepoint.com/:p:/g/personal/tcapobianco_my365_bellevue_edu/ETi2Jg0OU8BNksS2oSfALx8BmgP_8gVRXIQL8ZnybkDINA?e=0ugMlf&amp;action=embedview&amp;wdAr=1.7777777777777777" width="962px" height="565px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <br>
 
 
